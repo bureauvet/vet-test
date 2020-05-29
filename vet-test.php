@@ -13,7 +13,7 @@
  */
 
  if( ! class_exists( 'vet_dashboard' ) ){
- 	include_once( plugin_dir_path( __FILE__ ) . 'custom-dashboard.php' );
+ 	include_once( plugin_dir_path( __FILE__ ) . 'vet-custom-dashboard.php' );
  }
 
 $dashboard = new vet_dashboard(__FILE__);
