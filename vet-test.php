@@ -4,7 +4,7 @@
  * Plugin Name:       Vet Test
  * Plugin URI:        https://github.com/bureauvet/vet-test
  * Description:       Testplugin for vet
- * Version:           0.0.2
+ * Version:           0.0.3
  * Author:            Bureau VET
  * License:           GNU General Public License v2
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.html
